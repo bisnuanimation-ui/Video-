@@ -1,0 +1,6 @@
+{
+  "name": "VideoCraft Editor",
+  "description": "A web-based video editing application, allowing users to import videos, preview them, and perform basic editing tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
